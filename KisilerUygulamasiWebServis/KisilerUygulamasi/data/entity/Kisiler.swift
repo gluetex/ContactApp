@@ -2,7 +2,7 @@
 //  Kisiler.swift
 //  KisilerUygulamasi
 //
-//  Created by Emre on 5.05.2024.
+//  Created by Emre Ertuğ on 5.05.2024.
 //
 
 import Foundation
