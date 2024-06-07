@@ -2,7 +2,7 @@
 //  KisiDetay.swift
 //  KisilerUygulamasi
 //
-//  Created by Kasım on 5.05.2024.
+//  Created by Emre Ertuğ on 5.05.2024.
 //
 
 import UIKit
